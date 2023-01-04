@@ -15,7 +15,7 @@ export default function Statistics({ title, stats }) {
       borderRadius="small"
       overflow="hidden"
     >
-      {title && <StatisticTitle>Upload stats</StatisticTitle>}
+      {title && <StatisticTitle>Statistics</StatisticTitle>}
 
       <List>
         {stats.map(({ id, label, percentage }) => (

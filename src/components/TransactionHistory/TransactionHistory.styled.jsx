@@ -42,7 +42,7 @@ export const TransactionsHistoryHeaderCell = styled(
   TransactionsHistoryCell
 ).attrs({
   as: 'th',
-  color: 'inherit',
+  color: 'green',
 })`
   text-transform: uppercase;
   color: ${({ theme }) => theme.colors.white};

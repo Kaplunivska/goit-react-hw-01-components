@@ -4,15 +4,15 @@
 
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
-  border-top: 1px solid lightgray;
-  background-color: aliceblue;
+  border-top: 1px solid burlywood;
+  background-color: bisque;
 }
 .statsItem {
   flex-basis: calc(100% / 3);
   padding: 10px 0;
 }
 .statsItem:not(:last-child) {
-  border-right: 1px solid lightgray;
+  border-right: 1px solid burlywood;
 }
 
 .label {
