@@ -7,8 +7,8 @@ export const theme = {
     online: 'green',
     offline: 'red',
     tableHeader: '#D2691E',
-    tableCellOdd: '#f2f0f0',
-    tableCellEven: '#e3e7e8',
+    tableCellOdd: '#FFFACD',
+    tableCellEven: '#F0E68C',
     random: getRandomHexColor,
   },
   borders: {
