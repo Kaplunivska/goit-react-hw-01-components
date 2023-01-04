@@ -1,0 +1,16 @@
+.description {
+  padding: 20px;
+}
+
+.name {
+  margin: 20px 0 10px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.tag,
+.location {
+  color: lightslategray;
+}
+.tag {
+  margin-bottom: 5px;
+}

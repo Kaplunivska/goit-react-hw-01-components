@@ -1,0 +1,30 @@
+.stats {
+  display: flex;
+  gap: 0;
+
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top: 1px solid lightgray;
+  background-color: aliceblue;
+}
+.statsItem {
+  flex-basis: calc(100% / 3);
+  padding: 10px 0;
+}
+.statsItem:not(:last-child) {
+  border-right: 1px solid lightgray;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+
+  font-size: 12px;
+  color: lightslategrey;
+}
+.quantity {
+  display: block;
+
+  font-size: 14px;
+  font-weight: 700;
+}
