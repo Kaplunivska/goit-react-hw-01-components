@@ -5,7 +5,7 @@
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   border-top: 1px solid burlywood;
-  background-color: bisque;
+  background-color: #d3d3d3;
 }
 .statsItem {
   flex-basis: calc(100% / 3);
