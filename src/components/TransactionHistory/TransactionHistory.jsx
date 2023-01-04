@@ -5,6 +5,7 @@ import {
   TransactionsHistoryRow,
   TransactionsHistoryTable,
 } from './TransactionHistory.styled';
+
 import { TransactionHistoryPropTypes } from './TransactionHistory.types';
 
 export default function TransactionHistory({ items }) {
