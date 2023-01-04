@@ -6,7 +6,7 @@ export const theme = {
     grey: 'grey',
     online: 'green',
     offline: 'red',
-    tableHeader: '#rgb(165, 77, 42)',
+    tableHeader: 'rgb(165, 77, 42)',
     tableCellOdd: '#f2f0f0',
     tableCellEven: '#e3e7e8',
     random: getRandomHexColor,
